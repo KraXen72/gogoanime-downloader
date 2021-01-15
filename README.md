@@ -22,9 +22,9 @@ for example: https://gogoanime.so/shingeki-no-kyojin-episode-1
 then paste the link there (ctrl + shift + v)  
 **6.** you will be prompted to enter first episode you want to download  
 **7.** you will be prompted to enter last episode you want to download note: to download the whole season just set this to like 1000 the program will automatically stop when needed  
-**8.** wait for it to generate links.
-**9.** in the folder there should appear a `.txt` file with all the links.
-**10.** copy the links to clipboard and use any downlaod manager to download the anime.
+**8.** wait for it to generate links.  
+**9.** in the folder there should appear a `.txt` file with all the links.  
+**10.** copy the links to clipboard and use any downlaod manager to download the anime.  
 
 ## downloading the links with free download manager  
 i will briefly explain how to use free download manager in case you haven't used a download manager yet  
