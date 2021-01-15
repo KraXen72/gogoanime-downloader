@@ -20,8 +20,8 @@ for example: https://gogoanime.so/shingeki-no-kyojin-episode-1
 ![what you will see](https://cdn.discordapp.com/attachments/704792091955429426/799622541672579092/Screenshot_2021_01.15_1354.png)
   
 then paste the link there (ctrl + shift + v)  
-**6.** you will be prompted to enter first episode you want to download  
-**7.** you will be prompted to enter last episode you want to download note: to download the whole season just set this to like 1000 the program will automatically stop when needed  
+**6.** you will be prompted to enter the number of the first episode you want to download  
+**7.** you will be prompted to enter the number of the last episode you want to download note: to download the whole season just set this to like 1000 the program will automatically stop when needed  
 **8.** wait for it to generate links.  
 **9.** in the folder there should appear a `.txt` file with all the links.  
 **10.** copy the links to clipboard and use any downlaod manager to download the anime.  
