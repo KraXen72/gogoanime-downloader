@@ -102,10 +102,11 @@ def main(alink, startt, endd):
 			"""
 		#format the preffered link
 		preferredlink = preferredlink.replace('<div class="dowload"><a download="" href="', '')
+		preferredlink = preferredlink.replace("&amp;", "&", 100)
 		ind = preferredlink.find('"')
 		preferredlink = preferredlink[0:ind]
 
-		preferredlink = preferredlink.replace("&amp;", "&")
+		
 
 		#write it into a file
 		
