@@ -105,12 +105,15 @@ def main(alink, startt, endd):
 		ind = preferredlink.find('"')
 		preferredlink = preferredlink[0:ind]
 
+		preferredlink = preferredlink.replace("&amp;", "&")
+
 		#write it into a file
 		
 		f = open('{}.txt'.format(animename), "a") #opens file with name of "test.txt"
 		f.write(preferredlink+"\n")
 		
 		longstring += preferredlink + "\n" 
+
 		#print the link for good measure
 		print(preferredlink)
 	return longstring
