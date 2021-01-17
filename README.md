@@ -16,7 +16,7 @@ generate links from gogoanime to batch download whole series
     - requests
     - bs4
     - lxml
-    - pysimplegui (if you want gui)
+    - pysimpleguiqt (if you want gui)
 - clone this repo
 - run ``cli.py`` or ``gui.py``
   
