@@ -1,4 +1,9 @@
 # gogoanime-downloader
+
+# a lot better, faster version written in javascript [here](https://greasyfork.org/en/scripts/420401-batch-downloader-for-gogoanime-so)
+![preview](https://cdn.discordapp.com/attachments/626108483388964865/801104110174339112/Rec_2021_01.19_1519.gif)
+
+## python version (standalone program):
 generate links from gogoanime to batch download whole series
 ![showcase](https://cdn.discordapp.com/attachments/704792091955429426/799685944756273213/ezgif-3-34b0a9c89d2e.gif)
   
