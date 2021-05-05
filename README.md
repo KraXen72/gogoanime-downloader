@@ -1,6 +1,4 @@
-# gogoanime-downloader
-
-# a lot better, faster version written in javascript (that downloads from animetwist) [here](https://github.com/KraXen72/animetwist-dl-electron)
+# ~~gogoanime-downloader~~ Use my new downloader [app](https://github.com/KraXen72/animetwist-dl-electron) :
 ![preview](https://camo.githubusercontent.com/6c14e407fb7b2652a18ed7808f855ce041c58ed9d07d3dc14d18333af06f0027/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3730343739323039313935353432393432362f3830363937333233383633383534323933392f5265635f323032315f30322e30345f323034322e676966)
 
 ## python version (standalone program) - discontinued & slow:
